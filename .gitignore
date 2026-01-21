@@ -1,0 +1,4 @@
+
+*.o
+libftdprintf.a
+libftvdprintf.a
